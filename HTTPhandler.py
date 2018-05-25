@@ -1,4 +1,5 @@
 #Created By Ashad Mouhamed
+#feel free to use it :)
 #HTTPhandler is a Python tool to send HTTP request and Data 
 #!/usr/bin/python
 
