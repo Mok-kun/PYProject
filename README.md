@@ -1,5 +1,5 @@
 # PYProject
-A usefull tool created with python.
+A useful tool created with python.
 
 To work with them you need to install some requirement library</br>
 run:</br>
