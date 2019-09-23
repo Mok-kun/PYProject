@@ -1,7 +1,7 @@
 # PYProject
-A useful tool created with python.
+This project seek for creating networking tool using python.
 
-To work with them you need to install some requirement library</br>
+To work with them you need to install some requirement library</br>.
 run:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>pip install -r requirement.txt</strong></br>
-Then Go Ahead
+Then Go Ahead.
